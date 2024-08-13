@@ -13,6 +13,7 @@ def test_mini_project_1():
     # We need to find the unique attribute which can find the web element
     make_appointment_element = driver.find_element(By.ID,"btn-make-appointment")
 
+
     # - Click on it
     make_appointment_element.click()
 
