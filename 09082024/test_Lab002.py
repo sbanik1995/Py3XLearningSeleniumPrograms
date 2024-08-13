@@ -5,7 +5,7 @@ from selenium import webdriver
 
 def test_open_vwologin():
     driver = webdriver.Chrome()
-    # Code -> HTTP rEQUEST - POST
+    # Code -> HTTP REQUEST - POST
     # POST request | Create the Session
     # Session is created - Unique ID - 16 digit ID
     # 62c075633fd0b0727c5c3f6eae5665ab
