@@ -36,20 +36,20 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Python tests.Python tests for test_Lab002.test_open_vwologin.executor": "Run",
-    "Python tests.Python tests for test_Lab003.test_open_vwologin.executor": "Run",
-    "Python tests.Python tests for test_Lab004.test_open_vwologin.executor": "Run",
-    "Python tests.Python tests for test_Lab005.test_open_vwologin.executor": "Run",
-    "Python tests.Python tests for test_Lab006.test_mini_project_1.executor": "Run",
-    "Python tests.Python tests for test_sele_Lab001.test_sample.executor": "Run",
-    "Python tests.Python tests in test_sele_Lab001.py.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "Selenium",
-    "ignore.virus.scanning.warn.message": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Python tests.Python tests for test_Lab002.test_open_vwologin.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for test_Lab003.test_open_vwologin.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for test_Lab004.test_open_vwologin.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for test_Lab005.test_open_vwologin.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for test_Lab006.test_mini_project_1.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for test_sele_Lab001.test_sample.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests in test_sele_Lab001.py.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;Selenium&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RunManager" selected="Python tests.Python tests for test_Lab006.test_mini_project_1">
     <configuration name="Python tests for test_Lab002.test_open_vwologin" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
       <module name="Py3XLearningSeleniumPrograms" />
@@ -176,7 +176,15 @@
       <option name="project" value="LOCAL" />
       <updated>1723524307928</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="SELENIUM WEBDRIVER">
+      <option name="closed" value="true" />
+      <created>1723525473974</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1723525473974</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
