@@ -4,11 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b1e61b5b-9163-4d78-8070-8d044f9443e1" name="Changes" comment="SELENIUM WEBDRIVER">
-      <change afterPath="$PROJECT_DIR$/12082024/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/12082024/test_Lab007.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/12082024/test_Lab008.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/12082024/test_Lab009.py" afterDir="false" />
+    <list default="true" id="b1e61b5b-9163-4d78-8070-8d044f9443e1" name="Changes" comment="12-08-2024 SELENIUM">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -43,38 +39,24 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Python tests.Python tests for test_Lab002.test_open_vwologin.executor": "Run",
-    "Python tests.Python tests for test_Lab003.test_open_vwologin.executor": "Run",
-    "Python tests.Python tests for test_Lab004.test_open_vwologin.executor": "Run",
-    "Python tests.Python tests for test_Lab005.test_open_vwologin.executor": "Run",
-    "Python tests.Python tests for test_Lab006.test_mini_project_1.executor": "Run",
-    "Python tests.Python tests for test_Lab007.test_mini_project_1.executor": "Run",
-    "Python tests.Python tests for test_Lab008.test_mini_project_2.executor": "Run",
-    "Python tests.Python tests for test_sele_Lab001.test_sample.executor": "Run",
-    "Python tests.Python tests in test_sele_Lab001.py.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "Selenium",
-    "ignore.virus.scanning.warn.message": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Python tests.Python tests for test_Lab002.test_open_vwologin.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for test_Lab003.test_open_vwologin.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for test_Lab004.test_open_vwologin.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for test_Lab005.test_open_vwologin.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for test_Lab006.test_mini_project_1.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for test_Lab007.test_mini_project_1.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for test_Lab008.test_mini_project_2.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for test_Lab009.test_mini_project_3.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for test_sele_Lab001.test_sample.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests in test_sele_Lab001.py.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;Selenium&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;
   }
-}]]></component>
-  <component name="RunManager" selected="Python tests.Python tests for test_Lab009.test_mini_project_3">
-    <configuration name="Python tests for test_Lab005.test_open_vwologin" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
-      <module name="Py3XLearningSeleniumPrograms" />
-      <option name="ENV_FILES" value="" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/09082024" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;test_Lab005.test_open_vwologin&quot;" />
-      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
-      <method v="2" />
-    </configuration>
+}</component>
+  <component name="RunManager" selected="Python tests.Python tests for test_Lab010.test_mini_project_4">
     <configuration name="Python tests for test_Lab006.test_mini_project_1" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
       <module name="Py3XLearningSeleniumPrograms" />
       <option name="ENV_FILES" value="" />
@@ -135,13 +117,28 @@
       <option name="_new_targetType" value="&quot;PYTHON&quot;" />
       <method v="2" />
     </configuration>
+    <configuration name="Python tests for test_Lab010.test_mini_project_4" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+      <module name="Py3XLearningSeleniumPrograms" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/14082024" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;test_Lab010.test_mini_project_4&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python tests.Python tests for test_Lab010.test_mini_project_4" />
         <item itemvalue="Python tests.Python tests for test_Lab009.test_mini_project_3" />
         <item itemvalue="Python tests.Python tests for test_Lab008.test_mini_project_2" />
         <item itemvalue="Python tests.Python tests for test_Lab007.test_mini_project_1" />
         <item itemvalue="Python tests.Python tests for test_Lab006.test_mini_project_1" />
-        <item itemvalue="Python tests.Python tests for test_Lab005.test_open_vwologin" />
       </list>
     </recent_temporary>
   </component>
@@ -193,7 +190,15 @@
       <option name="project" value="LOCAL" />
       <updated>1723525473974</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="12-08-2024 SELENIUM">
+      <option name="closed" value="true" />
+      <created>1723605122043</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1723605122043</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -221,6 +226,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="SELENIUM WEBDRIVER" />
-    <option name="LAST_COMMIT_MESSAGE" value="SELENIUM WEBDRIVER" />
+    <MESSAGE value="12-08-2024 SELENIUM" />
+    <option name="LAST_COMMIT_MESSAGE" value="12-08-2024 SELENIUM" />
   </component>
 </project>
