@@ -4,13 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b1e61b5b-9163-4d78-8070-8d044f9443e1" name="Changes" comment="16-08-2024 Selenium Concepts, Selenium Wait">
-      <change afterPath="$PROJECT_DIR$/19082024/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/19082024/test_016_exceptions.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/19082024/test_017_exceptions.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/19082024/test_018_exceptions.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/19082024/test_019_exceptions.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/19082024/test_020_alerts.py" afterDir="false" />
+    <list default="true" id="b1e61b5b-9163-4d78-8070-8d044f9443e1" name="Changes" comment="19-08-2024 Selenium Exceptions">
+      <change afterPath="$PROJECT_DIR$/21082024/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/21082024/test_021_actions.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/21082024/test_022_actions.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/21082024/test_023_actions.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/21082024/test_024_actions.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/21082024/test_025_windows.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -221,7 +221,15 @@
       <option name="project" value="LOCAL" />
       <updated>1723957813390</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="19-08-2024 Selenium Exceptions">
+      <option name="closed" value="true" />
+      <created>1724165819362</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1724165819362</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -252,6 +260,7 @@
     <MESSAGE value="12-08-2024 SELENIUM" />
     <MESSAGE value="14-08-2024 SELENIUM XPATH AND CSS SELECTOR" />
     <MESSAGE value="16-08-2024 Selenium Concepts, Selenium Wait" />
-    <option name="LAST_COMMIT_MESSAGE" value="16-08-2024 Selenium Concepts, Selenium Wait" />
+    <MESSAGE value="19-08-2024 Selenium Exceptions" />
+    <option name="LAST_COMMIT_MESSAGE" value="19-08-2024 Selenium Exceptions" />
   </component>
 </project>
